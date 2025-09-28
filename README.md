@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋, I'm Jahnavi Durga 
 - 🎓I'm Computer Science Student at Gudlavalleru Engineering College
-- 💡 **AI/ML Enthusiast | Full-Stack Developer | Problem Solver**  
-Passionate about building intelligent systems, web apps, and solving real-world problems with data and code.  
+- 💡**AI/ML Enthusiast | Full-Stack Developer | Problem Solver**  
+- 🌟Passionate about building intelligent systems, web apps, and solving real-world problems with data and code.  
 
 ---
-## 🔗 Connect with Me  
+## 📫Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)  
-<a href="mailto:g.jahnavidurga@gmail.com">
+  <div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.linkedin.com/in/jahnavi-durga-ganapathi-71bb09311/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:g.jahnavidurga@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 ---
@@ -57,7 +60,6 @@ Passionate about building intelligent systems, web apps, and solving real-world 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganapathijahnavi&layout=compact&theme=tokyonight)  
 
 ---
-
 
 ## ✨ Quote  ✨
 

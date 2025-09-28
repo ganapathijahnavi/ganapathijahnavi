@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋, I'm Jahnavi Durga 
+# Hi there, I'm Jahnavi Durga👋
 - 🎓I'm Computer Science Student at Gudlavalleru Engineering College
 - 💡**AI/ML Enthusiast | Full-Stack Developer | Problem Solver**  
 - 🌟Passionate about building intelligent systems, web apps, and solving real-world problems with data and code.  

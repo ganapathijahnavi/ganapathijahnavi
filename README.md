@@ -13,15 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋, I'm Jahnavi Durga 
-
-💡 **AI/ML Enthusiast | Full-Stack Developer | Problem Solver**  
+- 🎓I'm Computer Science Student at Gudlavalleru Engineering College
+- 💡 **AI/ML Enthusiast | Full-Stack Developer | Problem Solver**  
 Passionate about building intelligent systems, web apps, and solving real-world problems with data and code.  
 
 ---
+ 
+   
+- 📫 Reach me at: ****  
+---
 
-## 🚀 About Me  
-- 🎓I'm Computer Science Student at Gudlavalleru Engineering College   
-- 📫 Reach me at: **g.jahnavidurga@gmail.com**  
+## Connect with me  
+<p align="center">
+  <a href="mailto:g.jahnavidurga@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jahnavi-durga-ganapathi-71bb09311/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -58,9 +69,16 @@ Passionate about building intelligent systems, web apps, and solving real-world 
 
 ## 🔗 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavi-durga-ganapathi-71bb09311/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)  
  
 ---
 
-✨ *“Great things take time, just like Rome — every effort lays the foundation of tomorrow.”* ✨
+
+## ✨ Quote  ✨
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌟%20Great%20things%20take%20time%2C%20just%20like%20Rome%20%E2%80%94%20every%20effort%20lays%20the%20foundation%20of%20tomorrow..-purple?style=for-the-badge&logo=appveyor&logoColor=white" />
+</p>
+
+
 

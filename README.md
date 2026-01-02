@@ -18,17 +18,20 @@ Here are some ideas to get you started:
 - 🌟Passionate about building intelligent systems, web apps, and solving real-world problems with data and code.  
 
 ---
+## 😄 Pronouns
+- **She/her✨**
+---
 ## 🏆 Achievements  
 
-- 🥇 **LeetCode 50 Days Badge** – Consistency in problem-solving 💪  
+- 🥇 **LeetCode Badges** – Consistency in problem-solving 💪  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ganapathi_jahnavi/)  
 
 ---
+## 🏆 GitHub Profile
+![Trophy](https://github-profile-trophy.vercel.app/?username=ganapathijahnavi)
 
-## 📊 GitHub Stats  
-
-![Jahnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganapathijahnavi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganapathijahnavi&layout=compact&theme=tokyonight)  
+## 📈 Contributions
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganapathijahnavi)
 
 ---
 

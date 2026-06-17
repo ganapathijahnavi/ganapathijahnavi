@@ -6,14 +6,13 @@
 💡 **AI/ML Enthusiast | Full-Stack Developer | Problem Solver**  
 🌟 Passionate about building intelligent systems, scalable web applications, and solving real-world problems using data, algorithms, and clean code.
 
----
-
-## 👩‍💻 About Me
-- Strong foundation in **Python, Data Structures & Algorithms**
-- Hands-on experience with **Full-Stack Development (MERN)**
-- Interested in **AI/ML, backend systems, and real-world product development**
-- Continuous learner who enjoys turning ideas into working solutions
-
+### ✨ About Me ✨
+-  Strong foundation in **Python, Data Structures & Algorithms**
+-  Building modern web applications using the **MERN Stack**
+-  Exploring **Artificial Intelligence, Machine Learning, NLP, and LLMs**
+-  Interested in **Backend Development, System Design, and Scalable Architectures**
+-  Enjoy solving challenging problems through code, algorithms, and hands-on projects
+-  Continuous learner committed to improving technical skills and building meaningful products
 ---
 
 ## 😄 Pronouns

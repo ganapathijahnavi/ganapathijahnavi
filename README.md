@@ -1,7 +1,7 @@
 # Hi there, I'm Jahnavi Durga 👋
-<p align="right">
-  <img src="https://media4.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="280" alt="AI Penguin" />
-</p>
+
+<img align="right" alt="AI Penguin" width="280px" src="https://media4.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif">
+
 🎓 **Computer Science & Engineering Student** at **Gudlavalleru Engineering College**  
 💡 **AI/ML Enthusiast | Full-Stack Developer | Problem Solver**  
 🌟 Passionate about building intelligent systems, scalable web applications, and solving real-world problems using data, algorithms, and clean code.

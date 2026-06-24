@@ -2,7 +2,7 @@
 
 <img align="right" width="280" src="./assets/penguin.gif">
 
-🎓 **Computer Science & Engineering Student** at **Gudlavalleru Engineering College**  
+🎓 **B.Tech (Honors) CSE Graduate, Class of 2026 | Fresher**  
 💡 **AI/ML Enthusiast | Full-Stack Developer | Problem Solver**  
 🌟 Passionate about building intelligent systems, scalable web applications, and solving real-world problems using data, algorithms, and clean code.
 
